@@ -91,6 +91,6 @@ Redundant parenthesis could be removed.
 
 ## Questions
 
-I was considering sharing my tokenization code on Piazza, as tokenization wasn't the main purpose of this assignment and it could have saved other students a lot of headache. However, I wasn't sure if this was appropriate, since getting tokenization + recursive parsing to work was the hardest part of this assignment.
+I was considering sharing my tokenization code on Piazza, as tokenization wasn't the main purpose of this assignment and it could have saved other students a lot of headache. However, I wasn't sure if this was appropriate, since getting tokenization + recursive parsing to work was the most time consuming part of this assignment.
 
 Other than that, this assignment was fairly straightforward.
